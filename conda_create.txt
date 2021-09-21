@@ -1,0 +1,1 @@
+conda create -n e178 -c conda-forge pandas jupyter numpy matplotlib scipy dill
