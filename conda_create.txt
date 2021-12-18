@@ -1,1 +1,1 @@
-conda create -n e178 -c conda-forge python=3.9 pandas jupyter numpy matplotlib scipy dill
+conda create -n dse -c conda-forge python=3.9 jupyter numpy matplotlib pandas scipy dill scikit-learn keras
