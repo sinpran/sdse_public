@@ -1,1 +1,1 @@
-conda create -n dse -c conda-forge python=3.9 jupyter numpy matplotlib seaborn pandas scipy dill scikit-learn keras jupytext
+conda create -n sdse -c conda-forge python=3.9 jupyter numpy matplotlib seaborn pandas scipy dill scikit-learn keras jupytext
