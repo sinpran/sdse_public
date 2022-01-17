@@ -5,7 +5,7 @@
 1. Install [Anaconda]() (or better, [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 2. Create the environment: 
 
-`conda create -n sdse -c conda-forge python=3.9 jupyter numpy matplotlib seaborn pandas scipy dill scikit-learn keras jupytext`
+`conda create -n sdse -c conda-forge python=3.9 jupyter numpy matplotlib seaborn pandas scipy dill scikit-learn keras jupytext sympy`
 
 3. Activate the environment
 
